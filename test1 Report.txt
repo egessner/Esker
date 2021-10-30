@@ -1,0 +1,25 @@
+Text Report on: test1.txt
+Number of lines: 8
+Numer of characters (total): 200
+Number of letters: 149
+Number of figures: 21
+Number of other characters: 30
+Number of words: 48
+
+Number of 1 letter words: 4
+Number of 2 letter words: 10
+Number of 3 letter words: 8
+Number of 4 letter words: 10
+Number of 5 letter words: 8
+Number of 6 letter words: 3
+Number of 7 letter words: 1
+Number of 10 letter words: 1
+Number of 11 letter words: 1
+Number of 12 letter words: 1
+Number of 14 letter words: 1
+
+The fifth most dense character is: a with 12 appearances
+The fourth most dense character is: t with 14 appearances
+The third most dense character is: s with 15 appearances
+The second most dense character is: i with 15 appearances
+The most dense character is: e with 21 appearances

@@ -1,0 +1,8 @@
+This is my first test file.
+My name is Erik Gessner and I swim competitively. 
+"/n" \n \t '/t' &'$%'special characters // 	///
+9.999 1/2 4 223.1 256/8128283  
+
+
+there once was a fish %^ named donald the fish. He had a big nose *& and webbed little toes.
+          

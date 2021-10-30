@@ -1,0 +1,29 @@
+Text Report on: long test.txt
+Number of lines: 9
+Numer of characters (total): 1531
+Number of letters: 1473
+Number of figures: 10
+Number of other characters: 48
+Number of words: 317
+
+Number of 1 letter words: 9
+Number of 2 letter words: 45
+Number of 3 letter words: 74
+Number of 4 letter words: 52
+Number of 5 letter words: 33
+Number of 6 letter words: 26
+Number of 7 letter words: 28
+Number of 8 letter words: 18
+Number of 9 letter words: 10
+Number of 10 letter words: 14
+Number of 11 letter words: 3
+Number of 14 letter words: 2
+Number of 15 letter words: 1
+Number of 16 letter words: 1
+Number of 19 letter words: 1
+
+The fifth most dense character is: n with 115 appearances
+The fourth most dense character is: o with 117 appearances
+The third most dense character is: a with 129 appearances
+The second most dense character is: e with 141 appearances
+The first most dense character is: t with 153 appearances
